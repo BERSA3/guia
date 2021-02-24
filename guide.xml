@@ -14,7 +14,7 @@
   </channel>
   <channel id="ARG: El Nueve HD">
     <display-name lang="es">ARG: El Nueve HD</display-name>
-    <url>http://www.gatotv.com</url>
+    <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="ARG: El Trece HD">
     <display-name lang="es">ARG: El Trece HD</display-name>
@@ -286,6 +286,234 @@
   </programme>
   <programme start="20210227220000 -0300" stop="20210228000000 -0300" channel="ARG: TV Publica HD">
     <title lang="es">Película</title>
+  </programme>
+  <programme start="20210224000000 -0300" stop="20210224003000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20210224003000 -0300" stop="20210224010000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224011500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210224011500 -0300" stop="20210224021500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210224021500 -0300" stop="20210224033000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210224033000 -0300" stop="20210224040000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210224040000 -0300" stop="20210224050000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20210224050000 -0300" stop="20210224070000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224100000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20210224100000 -0300" stop="20210224120000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20210224120000 -0300" stop="20210224133000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20210224133000 -0300" stop="20210224150000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20210224150000 -0300" stop="20210224170000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20210224170000 -0300" stop="20210224190000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210224190000 -0300" stop="20210224203000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20210224203000 -0300" stop="20210224220000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20210224220000 -0300" stop="20210224230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20210224230000 -0300" stop="20210224230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210224230000 -0300" stop="20210225000000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210225000000 -0300" stop="20210225003000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20210225003000 -0300" stop="20210225010000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20210225010000 -0300" stop="20210225011500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210225011500 -0300" stop="20210225021500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210225021500 -0300" stop="20210225033000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210225033000 -0300" stop="20210225040000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210225040000 -0300" stop="20210225050000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20210225050000 -0300" stop="20210225070000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210225070000 -0300" stop="20210225100000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20210225100000 -0300" stop="20210225120000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20210225120000 -0300" stop="20210225133000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20210225133000 -0300" stop="20210225150000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20210225150000 -0300" stop="20210225170000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20210225170000 -0300" stop="20210225190000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210225190000 -0300" stop="20210225203000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20210225203000 -0300" stop="20210225220000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20210225220000 -0300" stop="20210225230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210225230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210226000000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210226000000 -0300" stop="20210226003000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20210226003000 -0300" stop="20210226010000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20210226010000 -0300" stop="20210226011500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210226011500 -0300" stop="20210226021500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210226021500 -0300" stop="20210226033000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210226033000 -0300" stop="20210226040000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210226040000 -0300" stop="20210226050000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20210226050000 -0300" stop="20210226070000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226100000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20210226100000 -0300" stop="20210226120000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226133000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20210226133000 -0300" stop="20210226150000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20210226150000 -0300" stop="20210226170000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226190000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226203000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20210226203000 -0300" stop="20210226220000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210226230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20210226230000 -0300" stop="20210226230000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210226230000 -0300" stop="20210227000000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todo puede pasar</title>
+  </programme>
+  <programme start="20210227000000 -0300" stop="20210227003000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20210227003000 -0300" stop="20210227011500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210227011500 -0300" stop="20210227021500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210227021500 -0300" stop="20210227033000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20210227033000 -0300" stop="20210227040000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210227040000 -0300" stop="20210227050000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20210227050000 -0300" stop="20210227070000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227090000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210227090000 -0300" stop="20210227100000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Claves para un mundo mejor</title>
+  </programme>
+  <programme start="20210227100000 -0300" stop="20210227110000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210227110000 -0300" stop="20210227113000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20210227113000 -0300" stop="20210227114500 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Show sobre ruedas</title>
+  </programme>
+  <programme start="20210227114500 -0300" stop="20210227120000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Veer</title>
+  </programme>
+  <programme start="20210227120000 -0300" stop="20210227130000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227140000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Jineteando</title>
+  </programme>
+  <programme start="20210227140000 -0300" stop="20210227150000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="20210227150000 -0300" stop="20210227170000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Combate</title>
+  </programme>
+  <programme start="20210227170000 -0300" stop="20210227190000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20210227190000 -0300" stop="20210227210000 -0300" channel="ARG: El Nueve HD">
+    <title lang="es">Implacables</title>
   </programme>
   <programme start="20210224004500 -0300" stop="20210224010000 -0300" channel="ARG: El Trece HD">
     <title lang="es">Cucinare</title>
