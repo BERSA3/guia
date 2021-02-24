@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ARG: Telefe HD">
+    <display-name lang="es">ARG: Telefe HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ARG: America HD">
+    <display-name lang="es">ARG: America HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210224002500 -0300" stop="20210224013000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Bbva Aprendemos Juntos</title>
+  </programme>
+  <programme start="20210224013000 -0300" stop="20210224060000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Altas Horas</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224064500 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Nick Jr</title>
+  </programme>
+  <programme start="20210224064500 -0300" stop="20210224070000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">#Tt</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224093000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20210224093000 -0300" stop="20210224113000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">30 Años Juntos: Moisés y los 10 Mandamientos</title>
+  </programme>
+  <programme start="20210224113000 -0300" stop="20210224130000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Flor de Equipo</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224143000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20210224143000 -0300" stop="20210224160000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224171500 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210224171500 -0300" stop="20210224180000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224184500 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Floricienta</title>
+  </programme>
+  <programme start="20210224184500 -0300" stop="20210224200000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Guerra de rosas</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224213000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20210224213000 -0300" stop="20210224223000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Minuto para Ganar</title>
+  </programme>
+  <programme start="20210224223000 -0300" stop="20210225000000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225171500 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210226002500 -0300" stop="20210226013000 -0300" channel="ARG: Telefe HD">
+    <title lang="es">Cuentos Inolvidables</title>
+  </programme>
+  <programme start="20210224002500 -0300" stop="20210224013000 -0300" channel="ARG: America HD">
+    <title lang="es">Bbva Aprendemos Juntos</title>
+  </programme>
+  <programme start="20210224013000 -0300" stop="20210224060000 -0300" channel="ARG: America HD">
+    <title lang="es">Altas Horas</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224064500 -0300" channel="ARG: America HD">
+    <title lang="es">Nick Jr</title>
+  </programme>
+  <programme start="20210224064500 -0300" stop="20210224070000 -0300" channel="ARG: America HD">
+    <title lang="es">#Tt</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224093000 -0300" channel="ARG: America HD">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20210224093000 -0300" stop="20210224113000 -0300" channel="ARG: America HD">
+    <title lang="es">30 Años Juntos: Moisés y los 10 Mandamientos</title>
+  </programme>
+  <programme start="20210224113000 -0300" stop="20210224130000 -0300" channel="ARG: America HD">
+    <title lang="es">Flor de Equipo</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224143000 -0300" channel="ARG: America HD">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20210224143000 -0300" stop="20210224160000 -0300" channel="ARG: America HD">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224171500 -0300" channel="ARG: America HD">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210224171500 -0300" stop="20210224180000 -0300" channel="ARG: America HD">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224184500 -0300" channel="ARG: America HD">
+    <title lang="es">Floricienta</title>
+  </programme>
+  <programme start="20210224184500 -0300" stop="20210224200000 -0300" channel="ARG: America HD">
+    <title lang="es">Guerra de rosas</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224213000 -0300" channel="ARG: America HD">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20210224213000 -0300" stop="20210224223000 -0300" channel="ARG: America HD">
+    <title lang="es">Minuto para Ganar</title>
+  </programme>
+  <programme start="20210224223000 -0300" stop="20210225000000 -0300" channel="ARG: America HD">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225171500 -0300" channel="ARG: America HD">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210226002500 -0300" stop="20210226013000 -0300" channel="ARG: America HD">
+    <title lang="es">Cuentos Inolvidables</title>
+  </programme>
+</tv>
