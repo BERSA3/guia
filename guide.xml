@@ -8,6 +8,30 @@
     <display-name lang="es">ARG: America HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ARG: TV Publica HD">
+    <display-name lang="es">ARG: TV Publica HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ARG: El Nueve HD">
+    <display-name lang="es">ARG: El Nueve HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ARG: El Trece HD">
+    <display-name lang="es">ARG: El Trece HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Volver">
+    <display-name lang="es">Volver</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: Metro SD">
+    <display-name lang="es">ARG: Metro SD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: Magazine HD">
+    <display-name lang="es">ARG: Magazine HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <programme start="20210224002500 -0300" stop="20210224013000 -0300" channel="ARG: Telefe HD">
     <title lang="es">Bbva Aprendemos Juntos</title>
   </programme>
@@ -61,5 +85,1445 @@
   </programme>
   <programme start="20210226002500 -0300" stop="20210226013000 -0300" channel="ARG: Telefe HD">
     <title lang="es">Cuentos Inolvidables</title>
+  </programme>
+  <programme start="20210224004500 -0300" stop="20210224010000 -0300" channel="ARG: America HD">
+    <title lang="es">El Rincón de estelita</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224023000 -0300" channel="ARG: America HD">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20210224023000 -0300" stop="20210224050000 -0300" channel="ARG: America HD">
+    <title lang="es">Los Intrusos</title>
+  </programme>
+  <programme start="20210224050000 -0300" stop="20210224064500 -0300" channel="ARG: America HD">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210224064500 -0300" stop="20210224090000 -0300" channel="ARG: America HD">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224110000 -0300" channel="ARG: America HD">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20210224110000 -0300" stop="20210224133000 -0300" channel="ARG: America HD">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210224133000 -0300" stop="20210224160000 -0300" channel="ARG: America HD">
+    <title lang="es">Los Intrusos</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224180000 -0300" channel="ARG: America HD">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224200000 -0300" channel="ARG: America HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224213000 -0300" channel="ARG: America HD">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20210224213000 -0300" stop="20210224233000 -0300" channel="ARG: America HD">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20210224233000 -0300" stop="20210225004500 -0300" channel="ARG: America HD">
+    <title lang="es">Los Mammones</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225180000 -0300" channel="ARG: America HD">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20210226010000 -0300" stop="20210226020000 -0300" channel="ARG: America HD">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20210226020000 -0300" stop="20210226040000 -0300" channel="ARG: America HD">
+    <title lang="es">Los Mammones</title>
+  </programme>
+  <programme start="20210226040000 -0300" stop="20210226060000 -0300" channel="ARG: America HD">
+    <title lang="es">Los Intrusos</title>
+  </programme>
+  <programme start="20210226060000 -0300" stop="20210226120000 -0300" channel="ARG: America HD">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226170000 -0300" channel="ARG: America HD">
+    <title lang="es">Pasión de Sábado</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226200000 -0300" channel="ARG: America HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210226200000 -0300" stop="20210226220000 -0300" channel="ARG: America HD">
+    <title lang="es">Secretos Verdaderos</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210227000000 -0300" channel="ARG: America HD">
+    <title lang="es">Sabado santo</title>
+  </programme>
+  <programme start="20210224003000 -0300" stop="20210224003500 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Lito Vitale a la medianoche</title>
+  </programme>
+  <programme start="20210224003500 -0300" stop="20210224010000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224023000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20210224023000 -0300" stop="20210224033000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Quedan los artistas</title>
+  </programme>
+  <programme start="20210224033000 -0300" stop="20210224053000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Mañanas públicas</title>
+  </programme>
+  <programme start="20210224053000 -0300" stop="20210224060000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Documentales en la Televisión Pública Argentina</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224063000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20210224063000 -0300" stop="20210224070000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224090000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Televisión Pública Noticias: Edición matutina</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224093000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">#QuedateEnCasa</title>
+  </programme>
+  <programme start="20210224093000 -0300" stop="20210224100000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20210224100000 -0300" stop="20210224120000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Mañanas públicas</title>
+  </programme>
+  <programme start="20210224120000 -0300" stop="20210224133000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Televisión Pública Noticias: Edición del mediodía</title>
+  </programme>
+  <programme start="20210224133000 -0300" stop="20210224160000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224173000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Todos estamos conectados</title>
+  </programme>
+  <programme start="20210224173000 -0300" stop="20210224190000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20210224190000 -0300" stop="20210224210000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Televisión Pública Noticias: Edición central</title>
+  </programme>
+  <programme start="20210224210000 -0300" stop="20210224220000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">¿Quién sabe más de Argentina</title>
+  </programme>
+  <programme start="20210224220000 -0300" stop="20210224230000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Decisiones de Vida</title>
+  </programme>
+  <programme start="20210224230000 -0300" stop="20210225000000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Lo mejor de Peter Capusotto y sus videos</title>
+  </programme>
+  <programme start="20210225173000 -0300" stop="20210225190000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226090000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226133000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226210000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210226223000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Según Roxi</title>
+  </programme>
+  <programme start="20210226223000 -0300" stop="20210226233000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Todo por dos pesos</title>
+  </programme>
+  <programme start="20210226233000 -0300" stop="20210227000000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Lo mejor de Peter Capusotto y sus videos</title>
+  </programme>
+  <programme start="20210227000000 -0300" stop="20210227003000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20210227060000 -0300" stop="20210227063000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Historias que valen</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227073000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Ejército Argentino</title>
+  </programme>
+  <programme start="20210227073000 -0300" stop="20210227080000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20210227080000 -0300" stop="20210227090000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Caminos de tiza</title>
+  </programme>
+  <programme start="20210227090000 -0300" stop="20210227093000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Madres de la Plaza</title>
+  </programme>
+  <programme start="20210227093000 -0300" stop="20210227110000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20210227110000 -0300" stop="20210227120000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Desde la vida</title>
+  </programme>
+  <programme start="20210227120000 -0300" stop="20210227130000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Los siete locos</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227140000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Televisión Pública Noticias Internacional</title>
+  </programme>
+  <programme start="20210227140000 -0300" stop="20210227150000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Otra trama</title>
+  </programme>
+  <programme start="20210227150000 -0300" stop="20210227170000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Automovilismo: Carreras argentinas</title>
+  </programme>
+  <programme start="20210227170000 -0300" stop="20210227180000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">#CamisetaArgentina</title>
+  </programme>
+  <programme start="20210227180000 -0300" stop="20210227190000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">La liga de la ciencia</title>
+  </programme>
+  <programme start="20210227190000 -0300" stop="20210227200000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Unísono, la música va a tu casa</title>
+  </programme>
+  <programme start="20210227200000 -0300" stop="20210227210000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20210227210000 -0300" stop="20210227220000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">El cine a través de la música</title>
+  </programme>
+  <programme start="20210227220000 -0300" stop="20210228000000 -0300" channel="ARG: TV Publica HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210224004500 -0300" stop="20210224010000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224063000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210224063000 -0300" stop="20210224070000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Tiempo del tiempo En Vivo</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224090000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Arriba argentinos En Vivo</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224110000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Nosotros a la mañana En Vivo</title>
+  </programme>
+  <programme start="20210224110000 -0300" stop="20210224130000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Los ángeles de la mañana En Vivo</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224143000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Noticiero Trece En Vivo</title>
+  </programme>
+  <programme start="20210224143000 -0300" stop="20210224160000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">100 argentinos dicen</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224180000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Corte y confección: famosos</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224200000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224210000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Telenoche En Vivo</title>
+  </programme>
+  <programme start="20210224210000 -0300" stop="20210224224500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20210224224500 -0300" stop="20210225000000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225180000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Corte y confección: famosos</title>
+  </programme>
+  <programme start="20210225224500 -0300" stop="20210226001500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210226224500 -0300" stop="20210227001500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210227001500 -0300" stop="20210227010000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Síntesis</title>
+  </programme>
+  <programme start="20210227010000 -0300" stop="20210227011500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210227011500 -0300" stop="20210227063000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210227063000 -0300" stop="20210227070000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Tiempo del tiempo En Vivo</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227090000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Arriba argentinos En Vivo</title>
+  </programme>
+  <programme start="20210227090000 -0300" stop="20210227110000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Nosotros a la mañana En Vivo</title>
+  </programme>
+  <programme start="20210227110000 -0300" stop="20210227130000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Los ángeles de la mañana En Vivo</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227143000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Noticiero Trece En Vivo</title>
+  </programme>
+  <programme start="20210227143000 -0300" stop="20210227160000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">100 argentinos dicen</title>
+  </programme>
+  <programme start="20210227160000 -0300" stop="20210227180000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Corte y confección: famosos</title>
+  </programme>
+  <programme start="20210227180000 -0300" stop="20210227200000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20210227200000 -0300" stop="20210227210000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Telenoche En Vivo</title>
+  </programme>
+  <programme start="20210227210000 -0300" stop="20210227224500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20210228011500 -0300" stop="20210228090000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210228090000 -0300" stop="20210228093000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Panam y circo</title>
+  </programme>
+  <programme start="20210228093000 -0300" stop="20210228110000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228110000 -0300" stop="20210228120000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20210228120000 -0300" stop="20210228141100 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228141100 -0300" stop="20210228155100 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228155100 -0300" stop="20210228181200 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228181200 -0300" stop="20210228200000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228200000 -0300" stop="20210228222500 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210228222500 -0300" stop="20210301003000 -0300" channel="ARG: El Trece HD">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210224011000 -0300" stop="20210224030000 -0300" channel="Volver">
+    <title lang="es">Vivir un instante</title>
+  </programme>
+  <programme start="20210224030000 -0300" stop="20210224041500 -0300" channel="Volver">
+    <title lang="es">Crecer de golpe</title>
+  </programme>
+  <programme start="20210224041500 -0300" stop="20210224060000 -0300" channel="Volver">
+    <title lang="es">Así es Buenos Aires</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224070000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224080000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210224080000 -0300" stop="20210224090000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224100000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210224100000 -0300" stop="20210224110000 -0300" channel="Volver">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20210224110000 -0300" stop="20210224120000 -0300" channel="Volver">
+    <title lang="es">Solamente vos</title>
+  </programme>
+  <programme start="20210224120000 -0300" stop="20210224130000 -0300" channel="Volver">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224141500 -0300" channel="Volver">
+    <title lang="es">Crecer de golpe</title>
+  </programme>
+  <programme start="20210224141500 -0300" stop="20210224160000 -0300" channel="Volver">
+    <title lang="es">Así es Buenos Aires</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224170000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210224170000 -0300" stop="20210224180000 -0300" channel="Volver">
+    <title lang="es">Esperanza mía</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224190000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210224190000 -0300" stop="20210224200000 -0300" channel="Volver">
+    <title lang="es">Mis amigos de siempre</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224210000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210224210000 -0300" stop="20210224220000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210224220000 -0300" stop="20210224234500 -0300" channel="Volver">
+    <title lang="es">Las minas de Salomón rey</title>
+  </programme>
+  <programme start="20210224234500 -0300" stop="20210224234500 -0300" channel="Volver">
+    <title lang="es">Ya no hay hombres</title>
+  </programme>
+  <programme start="20210224234500 -0300" stop="20210225013000 -0300" channel="Volver">
+    <title lang="es">Ya no hay hombres</title>
+  </programme>
+  <programme start="20210225013000 -0300" stop="20210225030000 -0300" channel="Volver">
+    <title lang="es">Testigo para un crimen</title>
+  </programme>
+  <programme start="20210225030000 -0300" stop="20210225041000 -0300" channel="Volver">
+    <title lang="es">Ambición</title>
+  </programme>
+  <programme start="20210225041000 -0300" stop="20210225060000 -0300" channel="Volver">
+    <title lang="es">Bárbara</title>
+  </programme>
+  <programme start="20210225060000 -0300" stop="20210225070000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210225070000 -0300" stop="20210225080000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210225080000 -0300" stop="20210225090000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210225090000 -0300" stop="20210225100000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210225100000 -0300" stop="20210225110000 -0300" channel="Volver">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20210225110000 -0300" stop="20210225120000 -0300" channel="Volver">
+    <title lang="es">Solamente vos</title>
+  </programme>
+  <programme start="20210225120000 -0300" stop="20210225130000 -0300" channel="Volver">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+  </programme>
+  <programme start="20210225130000 -0300" stop="20210225141000 -0300" channel="Volver">
+    <title lang="es">Ambición</title>
+  </programme>
+  <programme start="20210225141000 -0300" stop="20210225160000 -0300" channel="Volver">
+    <title lang="es">Bárbara</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225170000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210225170000 -0300" stop="20210225180000 -0300" channel="Volver">
+    <title lang="es">Esperanza mía</title>
+  </programme>
+  <programme start="20210225180000 -0300" stop="20210225190000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210225190000 -0300" stop="20210225200000 -0300" channel="Volver">
+    <title lang="es">Mis amigos de siempre</title>
+  </programme>
+  <programme start="20210225200000 -0300" stop="20210225210000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210225210000 -0300" stop="20210225220000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210225220000 -0300" stop="20210225230000 -0300" channel="Volver">
+    <title lang="es">La Argentina de Tato</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210225230000 -0300" channel="Volver">
+    <title lang="es">Monumental Moria</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210226003000 -0300" channel="Volver">
+    <title lang="es">Monumental Moria</title>
+  </programme>
+  <programme start="20210226003000 -0300" stop="20210226015500 -0300" channel="Volver">
+    <title lang="es">Alejandra, mon amour</title>
+  </programme>
+  <programme start="20210226015500 -0300" stop="20210226030000 -0300" channel="Volver">
+    <title lang="es">Stella Maris</title>
+  </programme>
+  <programme start="20210226030000 -0300" stop="20210226045000 -0300" channel="Volver">
+    <title lang="es">Apuntes de un viaje al Iberá</title>
+  </programme>
+  <programme start="20210226045000 -0300" stop="20210226060000 -0300" channel="Volver">
+    <title lang="es">Un mundo de amor</title>
+  </programme>
+  <programme start="20210226060000 -0300" stop="20210226070000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226080000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210226080000 -0300" stop="20210226090000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210226090000 -0300" stop="20210226100000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210226100000 -0300" stop="20210226110000 -0300" channel="Volver">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20210226110000 -0300" stop="20210226120000 -0300" channel="Volver">
+    <title lang="es">Solamente vos</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226130000 -0300" channel="Volver">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+  </programme>
+  <programme start="20210226130000 -0300" stop="20210226145000 -0300" channel="Volver">
+    <title lang="es">Apuntes de un viaje al Iberá</title>
+  </programme>
+  <programme start="20210226145000 -0300" stop="20210226160000 -0300" channel="Volver">
+    <title lang="es">Un mundo de amor</title>
+  </programme>
+  <programme start="20210226160000 -0300" stop="20210226170000 -0300" channel="Volver">
+    <title lang="es">R.R. DT</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226180000 -0300" channel="Volver">
+    <title lang="es">Esperanza mía</title>
+  </programme>
+  <programme start="20210226180000 -0300" stop="20210226190000 -0300" channel="Volver">
+    <title lang="es">Montaña rusa</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226200000 -0300" channel="Volver">
+    <title lang="es">Mis amigos de siempre</title>
+  </programme>
+  <programme start="20210226200000 -0300" stop="20210226210000 -0300" channel="Volver">
+    <title lang="es">22, el loco</title>
+  </programme>
+  <programme start="20210226210000 -0300" stop="20210226220000 -0300" channel="Volver">
+    <title lang="es">El palacio de la risa</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210226220000 -0300" channel="Volver">
+    <title lang="es">Matrimonios y algo más</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210227000000 -0300" channel="Volver">
+    <title lang="es">Matrimonios y algo más</title>
+  </programme>
+  <programme start="20210227000000 -0300" stop="20210227013500 -0300" channel="Volver">
+    <title lang="es">La pulga en la oreja</title>
+  </programme>
+  <programme start="20210227013500 -0300" stop="20210227030000 -0300" channel="Volver">
+    <title lang="es">Marta Ferrari</title>
+  </programme>
+  <programme start="20210227030000 -0300" stop="20210227050000 -0300" channel="Volver">
+    <title lang="es">Matrimonios y algo más</title>
+  </programme>
+  <programme start="20210227050000 -0300" stop="20210227063000 -0300" channel="Volver">
+    <title lang="es">Monumental Moria</title>
+  </programme>
+  <programme start="20210227063000 -0300" stop="20210227070000 -0300" channel="Volver">
+    <title lang="es">Felipe</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227083500 -0300" channel="Volver">
+    <title lang="es">Esposa último modelo</title>
+  </programme>
+  <programme start="20210227083500 -0300" stop="20210227100000 -0300" channel="Volver">
+    <title lang="es">La pícara soñadora</title>
+  </programme>
+  <programme start="20210227100000 -0300" stop="20210227120000 -0300" channel="Volver">
+    <title lang="es">El gran álbum de la tele</title>
+  </programme>
+  <programme start="20210227120000 -0300" stop="20210227130000 -0300" channel="Volver">
+    <title lang="es">La risa es bella</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227150000 -0300" channel="Volver">
+    <title lang="es">Peor es nada</title>
+  </programme>
+  <programme start="20210227150000 -0300" stop="20210227163000 -0300" channel="Volver">
+    <title lang="es">En busca del brillante perdido</title>
+  </programme>
+  <programme start="20210227163000 -0300" stop="20210227180500 -0300" channel="Volver">
+    <title lang="es">Blum</title>
+  </programme>
+  <programme start="20210227180500 -0300" stop="20210227193000 -0300" channel="Volver">
+    <title lang="es">Yo gané el prode... ¿y ud.?</title>
+  </programme>
+  <programme start="20210227193000 -0300" stop="20210227210000 -0300" channel="Volver">
+    <title lang="es">Otro corazón</title>
+  </programme>
+  <programme start="20210227210000 -0300" stop="20210227220000 -0300" channel="Volver">
+    <title lang="es">1002 momentos de la TV</title>
+  </programme>
+  <programme start="20210224000000 -0300" stop="20210224003000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo en privado</title>
+  </programme>
+  <programme start="20210224003000 -0300" stop="20210224010000 -0300" channel="ARG: Metro SD">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224013000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20210224013000 -0300" stop="20210224020000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma de vivir mejor</title>
+  </programme>
+  <programme start="20210224020000 -0300" stop="20210224023000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210224023000 -0300" stop="20210224030000 -0300" channel="ARG: Metro SD">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20210224030000 -0300" stop="20210224033000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Tu gimnasia</title>
+  </programme>
+  <programme start="20210224033000 -0300" stop="20210224040000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210224040000 -0300" stop="20210224043000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210224043000 -0300" stop="20210224050000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A ciencia cierta</title>
+  </programme>
+  <programme start="20210224050000 -0300" stop="20210224053000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Vida y estética</title>
+  </programme>
+  <programme start="20210224053000 -0300" stop="20210224060000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Turismo Argentina</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224063000 -0300" channel="ARG: Metro SD">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20210224063000 -0300" stop="20210224070000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Claridades</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224073000 -0300" channel="ARG: Metro SD">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20210224073000 -0300" stop="20210224080000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Aires constitucionales</title>
+  </programme>
+  <programme start="20210224080000 -0300" stop="20210224083000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210224083000 -0300" stop="20210224090000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224093000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Tu gimnasia</title>
+  </programme>
+  <programme start="20210224093000 -0300" stop="20210224100000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210224100000 -0300" stop="20210224110000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210224110000 -0300" stop="20210224113000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210224113000 -0300" stop="20210224120000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma plus</title>
+  </programme>
+  <programme start="20210224120000 -0300" stop="20210224130000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Reunión de consorcio</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224133000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Celebración de las musas</title>
+  </programme>
+  <programme start="20210224133000 -0300" stop="20210224140000 -0300" channel="ARG: Metro SD">
+    <title lang="es">La cultura del trabajo</title>
+  </programme>
+  <programme start="20210224140000 -0300" stop="20210224143000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Aires constitucionales</title>
+  </programme>
+  <programme start="20210224143000 -0300" stop="20210224150000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pizarro en 30’</title>
+  </programme>
+  <programme start="20210224150000 -0300" stop="20210224153000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210224153000 -0300" stop="20210224160000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Adelantando las noticias</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224163000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mirta te acompaña</title>
+  </programme>
+  <programme start="20210224163000 -0300" stop="20210224170000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A ciencia cierta</title>
+  </programme>
+  <programme start="20210224170000 -0300" stop="20210224173000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Noticias en salud</title>
+  </programme>
+  <programme start="20210224173000 -0300" stop="20210224180000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pool económico</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224183000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Salud en todas las políticas</title>
+  </programme>
+  <programme start="20210224183000 -0300" stop="20210224190000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20210224190000 -0300" stop="20210224200000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224203000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Corrientes de pensamiento</title>
+  </programme>
+  <programme start="20210224203000 -0300" stop="20210224210000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20210224210000 -0300" stop="20210224213000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Los Marconi</title>
+  </programme>
+  <programme start="20210224213000 -0300" stop="20210224220000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Dicen que dicen</title>
+  </programme>
+  <programme start="20210224220000 -0300" stop="20210224223000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo en privado</title>
+  </programme>
+  <programme start="20210224223000 -0300" stop="20210224230000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Bazar TV pasaporte</title>
+  </programme>
+  <programme start="20210224230000 -0300" stop="20210224230000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20210224230000 -0300" stop="20210225000000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20210225000000 -0300" stop="20210225003000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210225003000 -0300" stop="20210225010000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210225010000 -0300" stop="20210225013000 -0300" channel="ARG: Metro SD">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20210225013000 -0300" stop="20210225020000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma plus</title>
+  </programme>
+  <programme start="20210225020000 -0300" stop="20210225023000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20210225023000 -0300" stop="20210225030000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20210225030000 -0300" stop="20210225033000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20210225033000 -0300" stop="20210225040000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210225040000 -0300" stop="20210225043000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210225043000 -0300" stop="20210225050000 -0300" channel="ARG: Metro SD">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20210225050000 -0300" stop="20210225053000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Intelexis mujer</title>
+  </programme>
+  <programme start="20210225053000 -0300" stop="20210225060000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo Whisky</title>
+  </programme>
+  <programme start="20210225060000 -0300" stop="20210225063000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Claridades</title>
+  </programme>
+  <programme start="20210225063000 -0300" stop="20210225070000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20210225070000 -0300" stop="20210225080000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210225080000 -0300" stop="20210225083000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210225083000 -0300" stop="20210225090000 -0300" channel="ARG: Metro SD">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20210225090000 -0300" stop="20210225093000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210225093000 -0300" stop="20210225100000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210225100000 -0300" stop="20210225110000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210225110000 -0300" stop="20210225113000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma plus</title>
+  </programme>
+  <programme start="20210225113000 -0300" stop="20210225120000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210225120000 -0300" stop="20210225123000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A la vista</title>
+  </programme>
+  <programme start="20210225123000 -0300" stop="20210225130000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Noticias en salud</title>
+  </programme>
+  <programme start="20210225130000 -0300" stop="20210225140000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Universidad crítica</title>
+  </programme>
+  <programme start="20210225140000 -0300" stop="20210225143000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Tu gimnasia</title>
+  </programme>
+  <programme start="20210225143000 -0300" stop="20210225150000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20210225150000 -0300" stop="20210225153000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A ciencia cierta</title>
+  </programme>
+  <programme start="20210225153000 -0300" stop="20210225160000 -0300" channel="ARG: Metro SD">
+    <title lang="es">MXE con tal de hablar</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225163000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pizarro en 30’</title>
+  </programme>
+  <programme start="20210225163000 -0300" stop="20210225170000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20210225170000 -0300" stop="20210225173000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Adelantando las noticias</title>
+  </programme>
+  <programme start="20210225173000 -0300" stop="20210225180000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Dicen que dicen</title>
+  </programme>
+  <programme start="20210225180000 -0300" stop="20210225183000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Celebración de las musas</title>
+  </programme>
+  <programme start="20210225183000 -0300" stop="20210225190000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Bazar TV pasaporte</title>
+  </programme>
+  <programme start="20210225190000 -0300" stop="20210225193000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Intelexis mujer</title>
+  </programme>
+  <programme start="20210225193000 -0300" stop="20210225200000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Escuela de valores</title>
+  </programme>
+  <programme start="20210225200000 -0300" stop="20210225203000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pool económico</title>
+  </programme>
+  <programme start="20210225203000 -0300" stop="20210225210000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Educación y sociedad</title>
+  </programme>
+  <programme start="20210225210000 -0300" stop="20210225213000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Salud en todas las políticas</title>
+  </programme>
+  <programme start="20210225213000 -0300" stop="20210225220000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Corrientes de pensamiento</title>
+  </programme>
+  <programme start="20210225220000 -0300" stop="20210225223000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Los Marconi</title>
+  </programme>
+  <programme start="20210225223000 -0300" stop="20210225230000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Sensación térmica</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210225233000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210225233000 -0300" stop="20210225233000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Feedback</title>
+  </programme>
+  <programme start="20210225233000 -0300" stop="20210226000000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Feedback</title>
+  </programme>
+  <programme start="20210226000000 -0300" stop="20210226003000 -0300" channel="ARG: Metro SD">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20210226003000 -0300" stop="20210226010000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Bazar TV pasaporte</title>
+  </programme>
+  <programme start="20210226010000 -0300" stop="20210226013000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20210226013000 -0300" stop="20210226020000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226020000 -0300" stop="20210226023000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226023000 -0300" stop="20210226030000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210226030000 -0300" stop="20210226033000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo Whisky</title>
+  </programme>
+  <programme start="20210226033000 -0300" stop="20210226040000 -0300" channel="ARG: Metro SD">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20210226040000 -0300" stop="20210226043000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210226043000 -0300" stop="20210226053000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Universidad crítica</title>
+  </programme>
+  <programme start="20210226053000 -0300" stop="20210226060000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210226060000 -0300" stop="20210226063000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226063000 -0300" stop="20210226070000 -0300" channel="ARG: Metro SD">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226080000 -0300" channel="ARG: Metro SD">
+    <title lang="es">MXE por la mañana</title>
+  </programme>
+  <programme start="20210226080000 -0300" stop="20210226083000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Turismo Argentina</title>
+  </programme>
+  <programme start="20210226083000 -0300" stop="20210226090000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210226090000 -0300" stop="20210226093000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20210226093000 -0300" stop="20210226100000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226100000 -0300" stop="20210226103000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226103000 -0300" stop="20210226110000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20210226110000 -0300" stop="20210226113000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210226113000 -0300" stop="20210226120000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226123000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20210226123000 -0300" stop="20210226130000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Los Marconi</title>
+  </programme>
+  <programme start="20210226130000 -0300" stop="20210226133000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo en privado</title>
+  </programme>
+  <programme start="20210226133000 -0300" stop="20210226140000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210226140000 -0300" stop="20210226143000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A ciencia cierta</title>
+  </programme>
+  <programme start="20210226143000 -0300" stop="20210226150000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pizarro en 30’</title>
+  </programme>
+  <programme start="20210226150000 -0300" stop="20210226160000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Reunión de consorcio</title>
+  </programme>
+  <programme start="20210226160000 -0300" stop="20210226170000 -0300" channel="ARG: Metro SD">
+    <title lang="es">MXE por la mañana</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226173000 -0300" channel="ARG: Metro SD">
+    <title lang="es">A la vista</title>
+  </programme>
+  <programme start="20210226173000 -0300" stop="20210226180000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20210226180000 -0300" stop="20210226183000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Intelexis mujer</title>
+  </programme>
+  <programme start="20210226183000 -0300" stop="20210226190000 -0300" channel="ARG: Metro SD">
+    <title lang="es">100% seguro</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226193000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Escuela de valores</title>
+  </programme>
+  <programme start="20210226193000 -0300" stop="20210226200000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20210226200000 -0300" stop="20210226210000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20210226210000 -0300" stop="20210226213000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Corrientes de pensamiento</title>
+  </programme>
+  <programme start="20210226213000 -0300" stop="20210226220000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Sensación térmica</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210226230000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20210226230000 -0300" stop="20210226233000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo en privado</title>
+  </programme>
+  <programme start="20210226233000 -0300" stop="20210226233000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20210226233000 -0300" stop="20210227000000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20210227000000 -0300" stop="20210227003000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
+  <programme start="20210227003000 -0300" stop="20210227010000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Modo avión</title>
+  </programme>
+  <programme start="20210227010000 -0300" stop="20210227013000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210227013000 -0300" stop="20210227020000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210227020000 -0300" stop="20210227023000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Claridades</title>
+  </programme>
+  <programme start="20210227023000 -0300" stop="20210227030000 -0300" channel="ARG: Metro SD">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20210227030000 -0300" stop="20210227033000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210227033000 -0300" stop="20210227040000 -0300" channel="ARG: Metro SD">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20210227040000 -0300" stop="20210227043000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20210227043000 -0300" stop="20210227050000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20210227050000 -0300" stop="20210227053000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo Whisky</title>
+  </programme>
+  <programme start="20210227053000 -0300" stop="20210227060000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20210227060000 -0300" stop="20210227070000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227073000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20210227073000 -0300" stop="20210227080000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Vida y estética</title>
+  </programme>
+  <programme start="20210227080000 -0300" stop="20210227083000 -0300" channel="ARG: Metro SD">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20210227083000 -0300" stop="20210227090000 -0300" channel="ARG: Metro SD">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20210227090000 -0300" stop="20210227100000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Reunión de consorcio</title>
+  </programme>
+  <programme start="20210227100000 -0300" stop="20210227103000 -0300" channel="ARG: Metro SD">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20210227103000 -0300" stop="20210227110000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20210227110000 -0300" stop="20210227113000 -0300" channel="ARG: Metro SD">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20210227113000 -0300" stop="20210227120000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20210227120000 -0300" stop="20210227123000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210227123000 -0300" stop="20210227130000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227140000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20210227140000 -0300" stop="20210227143000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
+  <programme start="20210227143000 -0300" stop="20210227150000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Pizarro en 30’</title>
+  </programme>
+  <programme start="20210227150000 -0300" stop="20210227153000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Noticias en salud</title>
+  </programme>
+  <programme start="20210227153000 -0300" stop="20210227160000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Escuela de valores</title>
+  </programme>
+  <programme start="20210227160000 -0300" stop="20210227163000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Mirta te acompaña</title>
+  </programme>
+  <programme start="20210227163000 -0300" stop="20210227170000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20210227170000 -0300" stop="20210227173000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20210227173000 -0300" stop="20210227180000 -0300" channel="ARG: Metro SD">
+    <title lang="es">MXE con tal de hablar</title>
+  </programme>
+  <programme start="20210227180000 -0300" stop="20210227183000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Cifras TV</title>
+  </programme>
+  <programme start="20210227183000 -0300" stop="20210227193000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20210227193000 -0300" stop="20210227200000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Actualidad y psicoanálisis</title>
+  </programme>
+  <programme start="20210227200000 -0300" stop="20210227203000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Industria Argentina P.E.M.</title>
+  </programme>
+  <programme start="20210227203000 -0300" stop="20210227210000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Contragolpe</title>
+  </programme>
+  <programme start="20210227210000 -0300" stop="20210227213000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20210227213000 -0300" stop="20210227220000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210227220000 -0300" stop="20210227230000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Universidad crítica</title>
+  </programme>
+  <programme start="20210227230000 -0300" stop="20210227233000 -0300" channel="ARG: Metro SD">
+    <title lang="es">Data</title>
+  </programme>
+  <programme start="20210224000000 -0300" stop="20210224003000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20210224003000 -0300" stop="20210224010000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20210224010000 -0300" stop="20210224013000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20210224013000 -0300" stop="20210224020000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cinetec</title>
+  </programme>
+  <programme start="20210224020000 -0300" stop="20210224030000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210224030000 -0300" stop="20210224033000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210224033000 -0300" stop="20210224043000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210224043000 -0300" stop="20210224050000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210224050000 -0300" stop="20210224060000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210224060000 -0300" stop="20210224070000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210224070000 -0300" stop="20210224073000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Profesionales exitosos</title>
+  </programme>
+  <programme start="20210224073000 -0300" stop="20210224080000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210224080000 -0300" stop="20210224090000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210224090000 -0300" stop="20210224093000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coloral TV</title>
+  </programme>
+  <programme start="20210224093000 -0300" stop="20210224100000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210224100000 -0300" stop="20210224110000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210224110000 -0300" stop="20210224113000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210224113000 -0300" stop="20210224120000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210224120000 -0300" stop="20210224130000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210224130000 -0300" stop="20210224133000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210224133000 -0300" stop="20210224140000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210224140000 -0300" stop="20210224143000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210224143000 -0300" stop="20210224150000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210224150000 -0300" stop="20210224160000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210224160000 -0300" stop="20210224170000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20210224170000 -0300" stop="20210224180000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210224180000 -0300" stop="20210224190000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210224190000 -0300" stop="20210224200000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20210224200000 -0300" stop="20210224210000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210224210000 -0300" stop="20210224224200 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El reino prohibido</title>
+  </programme>
+  <programme start="20210224224200 -0300" stop="20210224224200 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210224224200 -0300" stop="20210225000000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210225000000 -0300" stop="20210225003000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cinetec</title>
+  </programme>
+  <programme start="20210225003000 -0300" stop="20210225010000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20210225010000 -0300" stop="20210225013000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20210225013000 -0300" stop="20210225020000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20210225020000 -0300" stop="20210225030000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210225030000 -0300" stop="20210225033000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20210225033000 -0300" stop="20210225043000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210225043000 -0300" stop="20210225050000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210225050000 -0300" stop="20210225060000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210225060000 -0300" stop="20210225070000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210225070000 -0300" stop="20210225073000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20210225073000 -0300" stop="20210225080000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210225080000 -0300" stop="20210225090000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210225090000 -0300" stop="20210225093000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coloral TV</title>
+  </programme>
+  <programme start="20210225093000 -0300" stop="20210225100000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210225100000 -0300" stop="20210225110000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210225110000 -0300" stop="20210225113000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210225113000 -0300" stop="20210225120000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210225120000 -0300" stop="20210225130000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210225130000 -0300" stop="20210225133000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210225133000 -0300" stop="20210225140000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210225140000 -0300" stop="20210225143000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210225143000 -0300" stop="20210225150000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210225150000 -0300" stop="20210225160000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210225160000 -0300" stop="20210225170000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20210225170000 -0300" stop="20210225180000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210225180000 -0300" stop="20210225190000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210225190000 -0300" stop="20210225200000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20210225200000 -0300" stop="20210225210000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210225210000 -0300" stop="20210225223000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Kung Fu Panda</title>
+  </programme>
+  <programme start="20210225223000 -0300" stop="20210225223000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210225223000 -0300" stop="20210226000000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210226000000 -0300" stop="20210226003000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20210226003000 -0300" stop="20210226010000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Profesionales exitosos</title>
+  </programme>
+  <programme start="20210226010000 -0300" stop="20210226013000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210226013000 -0300" stop="20210226020000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Dr. Beauty</title>
+  </programme>
+  <programme start="20210226020000 -0300" stop="20210226030000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210226030000 -0300" stop="20210226033000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20210226033000 -0300" stop="20210226043000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210226043000 -0300" stop="20210226050000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210226050000 -0300" stop="20210226060000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210226060000 -0300" stop="20210226070000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226073000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20210226073000 -0300" stop="20210226080000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20210226080000 -0300" stop="20210226090000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210226090000 -0300" stop="20210226093000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coloral TV</title>
+  </programme>
+  <programme start="20210226093000 -0300" stop="20210226100000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210226100000 -0300" stop="20210226110000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210226110000 -0300" stop="20210226113000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210226113000 -0300" stop="20210226120000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20210226120000 -0300" stop="20210226130000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210226130000 -0300" stop="20210226133000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210226133000 -0300" stop="20210226140000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210226140000 -0300" stop="20210226143000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210226143000 -0300" stop="20210226150000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20210226150000 -0300" stop="20210226160000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210226160000 -0300" stop="20210226170000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226180000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210226180000 -0300" stop="20210226190000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226200000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20210226200000 -0300" stop="20210226210000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20210226210000 -0300" stop="20210226230400 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Pandillas de Nueva York</title>
+  </programme>
+  <programme start="20210226230400 -0300" stop="20210226230400 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210226230400 -0300" stop="20210227000000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Policías en acción</title>
+  </programme>
+  <programme start="20210227000000 -0300" stop="20210227003000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Vivir viajando</title>
+  </programme>
+  <programme start="20210227003000 -0300" stop="20210227010000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20210227010000 -0300" stop="20210227013000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20210227013000 -0300" stop="20210227020000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20210227020000 -0300" stop="20210227030000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20210227030000 -0300" stop="20210227033000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20210227033000 -0300" stop="20210227043000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210227043000 -0300" stop="20210227050000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Isaura, la esclava</title>
+  </programme>
+  <programme start="20210227050000 -0300" stop="20210227060000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La tormenta</title>
+  </programme>
+  <programme start="20210227060000 -0300" stop="20210227063000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20210227063000 -0300" stop="20210227070000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227083800 -0300" channel="ARG: Magazine HD">
+    <title lang="es">48 horas</title>
+  </programme>
+  <programme start="20210227083800 -0300" stop="20210227102000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El reino prohibido</title>
+  </programme>
+  <programme start="20210227102000 -0300" stop="20210227104800 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Cinetec</title>
+  </programme>
+  <programme start="20210227104800 -0300" stop="20210227114500 -0300" channel="ARG: Magazine HD">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20210227114500 -0300" stop="20210227123900 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Los capos del humor</title>
+  </programme>
+  <programme start="20210227123900 -0300" stop="20210227141700 -0300" channel="ARG: Magazine HD">
+    <title lang="es">48 horas</title>
+  </programme>
+  <programme start="20210227141700 -0300" stop="20210227154000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Con la frente en alto</title>
+  </programme>
+  <programme start="20210227154000 -0300" stop="20210227172200 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El reino prohibido</title>
+  </programme>
+  <programme start="20210227172200 -0300" stop="20210227190000 -0300" channel="ARG: Magazine HD">
+    <title lang="es">48 horas</title>
+  </programme>
+  <programme start="20210227190000 -0300" stop="20210227202300 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Con la frente en alto</title>
+  </programme>
+  <programme start="20210227202300 -0300" stop="20210227220500 -0300" channel="ARG: Magazine HD">
+    <title lang="es">El reino prohibido</title>
+  </programme>
+  <programme start="20210227220500 -0300" stop="20210227225500 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mujeres asesinas</title>
+  </programme>
+  <programme start="20210227225500 -0300" stop="20210227234700 -0300" channel="ARG: Magazine HD">
+    <title lang="es">Mujeres asesinas</title>
   </programme>
 </tv>
