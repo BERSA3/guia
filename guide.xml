@@ -56,6 +56,15 @@
     <display-name lang="es">Canal 26 HD</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="Quiero Musica">
+    <display-name lang="es">Quiero Musica</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="CO: Caracol Full HD">
+    <display-name lang="es">CO: Caracol Full HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
   <programme start="20210225000000 -0300" stop="20210225002500 -0300" channel="ARG: Telefe HD">
     <title lang="es">Staff</title>
   </programme>
@@ -3631,5 +3640,455 @@
   </programme>
   <programme start="20210228220000 -0300" stop="20210228230000 -0300" channel="Canal 26 HD">
     <title lang="es">22</title>
+  </programme>
+  <programme start="20210225000000 -0300" stop="20210225003000 -0300" channel="Quiero Musica">
+    <title lang="es">Aerial</title>
+  </programme>
+  <programme start="20210225003000 -0300" stop="20210225020000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210225020000 -0300" stop="20210225033000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210225033000 -0300" stop="20210225050000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210225050000 -0300" stop="20210225053000 -0300" channel="Quiero Musica">
+    <title lang="es">Encuentros extraordinarios</title>
+  </programme>
+  <programme start="20210225053000 -0300" stop="20210225070000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210225070000 -0300" stop="20210225073000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210225073000 -0300" stop="20210225090000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210225090000 -0300" stop="20210225110000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 30 para el amor</title>
+  </programme>
+  <programme start="20210225110000 -0300" stop="20210225130000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210225130000 -0300" stop="20210225133000 -0300" channel="Quiero Musica">
+    <title lang="es">Q noticias</title>
+  </programme>
+  <programme start="20210225133000 -0300" stop="20210225140000 -0300" channel="Quiero Musica">
+    <title lang="es">Diverlistas</title>
+  </programme>
+  <programme start="20210225140000 -0300" stop="20210225153000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210225153000 -0300" stop="20210225170000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210225170000 -0300" stop="20210225180000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210225180000 -0300" stop="20210225183000 -0300" channel="Quiero Musica">
+    <title lang="es">Mundo trap</title>
+  </programme>
+  <programme start="20210225183000 -0300" stop="20210225190000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 5</title>
+  </programme>
+  <programme start="20210225190000 -0300" stop="20210225193000 -0300" channel="Quiero Musica">
+    <title lang="es">Q noticias</title>
+  </programme>
+  <programme start="20210225193000 -0300" stop="20210225210000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210225210000 -0300" stop="20210225213000 -0300" channel="Quiero Musica">
+    <title lang="es">Chateando</title>
+  </programme>
+  <programme start="20210225213000 -0300" stop="20210225220000 -0300" channel="Quiero Musica">
+    <title lang="es">Banda soporte</title>
+  </programme>
+  <programme start="20210225220000 -0300" stop="20210225230000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210225230000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210225230000 -0300" stop="20210226000000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210226000000 -0300" stop="20210226003000 -0300" channel="Quiero Musica">
+    <title lang="es">Banda soporte</title>
+  </programme>
+  <programme start="20210226003000 -0300" stop="20210226020000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210226020000 -0300" stop="20210226033000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210226033000 -0300" stop="20210226050000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210226050000 -0300" stop="20210226053000 -0300" channel="Quiero Musica">
+    <title lang="es">Código urbano</title>
+  </programme>
+  <programme start="20210226053000 -0300" stop="20210226070000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210226070000 -0300" stop="20210226073000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210226073000 -0300" stop="20210226090000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210226090000 -0300" stop="20210226110000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 30 para el amor</title>
+  </programme>
+  <programme start="20210226110000 -0300" stop="20210226130000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210226130000 -0300" stop="20210226133000 -0300" channel="Quiero Musica">
+    <title lang="es">Q noticias</title>
+  </programme>
+  <programme start="20210226133000 -0300" stop="20210226140000 -0300" channel="Quiero Musica">
+    <title lang="es">Diverlistas</title>
+  </programme>
+  <programme start="20210226140000 -0300" stop="20210226153000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210226153000 -0300" stop="20210226170000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210226170000 -0300" stop="20210226180000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210226180000 -0300" stop="20210226183000 -0300" channel="Quiero Musica">
+    <title lang="es">Mundo trap</title>
+  </programme>
+  <programme start="20210226183000 -0300" stop="20210226190000 -0300" channel="Quiero Musica">
+    <title lang="es">Dieron la nota</title>
+  </programme>
+  <programme start="20210226190000 -0300" stop="20210226193000 -0300" channel="Quiero Musica">
+    <title lang="es">Q noticias</title>
+  </programme>
+  <programme start="20210226193000 -0300" stop="20210226210000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210226210000 -0300" stop="20210226220000 -0300" channel="Quiero Musica">
+    <title lang="es">Noche de chicos</title>
+  </programme>
+  <programme start="20210226220000 -0300" stop="20210226230000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210226230000 -0300" stop="20210226230000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero fiesta</title>
+  </programme>
+  <programme start="20210226230000 -0300" stop="20210227003000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero fiesta</title>
+  </programme>
+  <programme start="20210227003000 -0300" stop="20210227020000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210227020000 -0300" stop="20210227033000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210227033000 -0300" stop="20210227050000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210227050000 -0300" stop="20210227053000 -0300" channel="Quiero Musica">
+    <title lang="es">Chateando</title>
+  </programme>
+  <programme start="20210227053000 -0300" stop="20210227070000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210227070000 -0300" stop="20210227090000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210227090000 -0300" stop="20210227110000 -0300" channel="Quiero Musica">
+    <title lang="es">Dulce despertar</title>
+  </programme>
+  <programme start="20210227110000 -0300" stop="20210227113000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 5</title>
+  </programme>
+  <programme start="20210227113000 -0300" stop="20210227130000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210227130000 -0300" stop="20210227133000 -0300" channel="Quiero Musica">
+    <title lang="es">Q noticias</title>
+  </programme>
+  <programme start="20210227133000 -0300" stop="20210227140000 -0300" channel="Quiero Musica">
+    <title lang="es">Dieron la nota</title>
+  </programme>
+  <programme start="20210227140000 -0300" stop="20210227143000 -0300" channel="Quiero Musica">
+    <title lang="es">Media hora con...</title>
+  </programme>
+  <programme start="20210227143000 -0300" stop="20210227163000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210227163000 -0300" stop="20210227203000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 60 +</title>
+  </programme>
+  <programme start="20210227203000 -0300" stop="20210227210000 -0300" channel="Quiero Musica">
+    <title lang="es">Mundo trap</title>
+  </programme>
+  <programme start="20210227210000 -0300" stop="20210227220000 -0300" channel="Quiero Musica">
+    <title lang="es">Q vivo</title>
+  </programme>
+  <programme start="20210227220000 -0300" stop="20210227230000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210227230000 -0300" stop="20210227230000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero fiesta</title>
+  </programme>
+  <programme start="20210227230000 -0300" stop="20210228003000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero fiesta</title>
+  </programme>
+  <programme start="20210228003000 -0300" stop="20210228043000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 60 +</title>
+  </programme>
+  <programme start="20210228043000 -0300" stop="20210228070000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210228070000 -0300" stop="20210228090000 -0300" channel="Quiero Musica">
+    <title lang="es">Quiero clásicos</title>
+  </programme>
+  <programme start="20210228090000 -0300" stop="20210228110000 -0300" channel="Quiero Musica">
+    <title lang="es">Dulce despertar</title>
+  </programme>
+  <programme start="20210228110000 -0300" stop="20210228130000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 30 para el amor</title>
+  </programme>
+  <programme start="20210228130000 -0300" stop="20210228143000 -0300" channel="Quiero Musica">
+    <title lang="es">Quince mejores</title>
+  </programme>
+  <programme start="20210228143000 -0300" stop="20210228163000 -0300" channel="Quiero Musica">
+    <title lang="es">En alta</title>
+  </programme>
+  <programme start="20210228163000 -0300" stop="20210228203000 -0300" channel="Quiero Musica">
+    <title lang="es">Los 60 +</title>
+  </programme>
+  <programme start="20210228203000 -0300" stop="20210228204500 -0300" channel="Quiero Musica">
+    <title lang="es">Q Tecno Millennials</title>
+  </programme>
+  <programme start="20210228204500 -0300" stop="20210228212000 -0300" channel="Quiero Musica">
+    <title lang="es">Noche de juegos</title>
+  </programme>
+  <programme start="20210228212000 -0300" stop="20210228215500 -0300" channel="Quiero Musica">
+    <title lang="es">Chateando</title>
+  </programme>
+  <programme start="20210228215500 -0300" stop="20210228230000 -0300" channel="Quiero Musica">
+    <title lang="es">Lo que quiero</title>
+  </programme>
+  <programme start="20210228230000 -0300" stop="20210228233000 -0300" channel="Quiero Musica">
+    <title lang="es">Código urbano</title>
+  </programme>
+  <programme start="20210225000000 +0000" stop="20210225013000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210225013000 +0000" stop="20210225023000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">A Otro Nivel</title>
+  </programme>
+  <programme start="20210225023000 +0000" stop="20210225040000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20210225040000 +0000" stop="20210225043000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210225043000 +0000" stop="20210225050000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Viuda Negra 2</title>
+  </programme>
+  <programme start="20210225050000 +0000" stop="20210225054500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">El Color De La Pasión</title>
+  </programme>
+  <programme start="20210225054500 +0000" stop="20210225091500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20210225091500 +0000" stop="20210225100000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20210225100000 +0000" stop="20210225101000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20210225101000 +0000" stop="20210225103000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20210225103000 +0000" stop="20210225143000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210225143000 +0000" stop="20210225160000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20210225160000 +0000" stop="20210225164500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20210225164500 +0000" stop="20210225173000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Mar De Amor</title>
+  </programme>
+  <programme start="20210225173000 +0000" stop="20210225203000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210225203000 +0000" stop="20210225213000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Todo Por Mi Hija</title>
+  </programme>
+  <programme start="20210225213000 +0000" stop="20210225230000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Lo Que La Vida Me Robó</title>
+  </programme>
+  <programme start="20210225230000 +0000" stop="20210225235800 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Tu Voz Estéreo</title>
+  </programme>
+  <programme start="20210225235800 +0000" stop="20210226000000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210226000000 +0000" stop="20210226003000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20210226003000 +0000" stop="20210226013000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210226013000 +0000" stop="20210226023000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">A Otro Nivel</title>
+  </programme>
+  <programme start="20210226023000 +0000" stop="20210226040000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20210226040000 +0000" stop="20210226043000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210226043000 +0000" stop="20210226050000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Viuda Negra 2</title>
+  </programme>
+  <programme start="20210226050000 +0000" stop="20210226054500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">El Color De La Pasión</title>
+  </programme>
+  <programme start="20210226054500 +0000" stop="20210226091500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20210226091500 +0000" stop="20210226100000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20210226100000 +0000" stop="20210226101000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20210226101000 +0000" stop="20210226103000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20210226103000 +0000" stop="20210226143000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210226143000 +0000" stop="20210226160000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20210226160000 +0000" stop="20210226164500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20210226164500 +0000" stop="20210226173000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Mar De Amor</title>
+  </programme>
+  <programme start="20210226173000 +0000" stop="20210226203000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210226203000 +0000" stop="20210226213000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Todo Por Mi Hija</title>
+  </programme>
+  <programme start="20210226213000 +0000" stop="20210226230000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Lo Que La Vida Me Robó</title>
+  </programme>
+  <programme start="20210226230000 +0000" stop="20210227000000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Tu Voz Estéreo</title>
+  </programme>
+  <programme start="20210227000000 +0000" stop="20210227013000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210227013000 +0000" stop="20210227023000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">A Otro Nivel</title>
+  </programme>
+  <programme start="20210227023000 +0000" stop="20210227040000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20210227040000 +0000" stop="20210227043000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210227043000 +0000" stop="20210227050000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Viuda Negra 2</title>
+  </programme>
+  <programme start="20210227050000 +0000" stop="20210227054500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">El Color De La Pasión</title>
+  </programme>
+  <programme start="20210227054500 +0000" stop="20210227100000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20210227100000 +0000" stop="20210227110000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20210227110000 +0000" stop="20210227120000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20210227120000 +0000" stop="20210227123000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Doble Vía</title>
+  </programme>
+  <programme start="20210227123000 +0000" stop="20210227133000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20210227133000 +0000" stop="20210227153000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pura Diversión: Pegasus: Pony With A Broken Wing</title>
+  </programme>
+  <programme start="20210227153000 +0000" stop="20210227173000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pura Diversión: Shorts</title>
+  </programme>
+  <programme start="20210227173000 +0000" stop="20210227200000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210227200000 +0000" stop="20210227230000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210227230000 +0000" stop="20210228000000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Se Dice De Mi</title>
+  </programme>
+  <programme start="20210228000000 +0000" stop="20210228013000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210228013000 +0000" stop="20210228040000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Sábados Felices</title>
+  </programme>
+  <programme start="20210228040000 +0000" stop="20210228050000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Entre Ojos</title>
+  </programme>
+  <programme start="20210228050000 +0000" stop="20210228054500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">El Color De La Pasión</title>
+  </programme>
+  <programme start="20210228054500 +0000" stop="20210228100000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20210228100000 +0000" stop="20210228110000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20210228110000 +0000" stop="20210228113000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20210228113000 +0000" stop="20210228120000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">El Mundo Visto Desde El Vaticano</title>
+  </programme>
+  <programme start="20210228120000 +0000" stop="20210228133000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20210228133000 +0000" stop="20210228134500 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Angelus Desde El Vaticano</title>
+  </programme>
+  <programme start="20210228134500 +0000" stop="20210228143000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210228143000 +0000" stop="20210228153000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20210228153000 +0000" stop="20210228173000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Pura Diversión: Wiener Dog Internationals</title>
+  </programme>
+  <programme start="20210228173000 +0000" stop="20210228200000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20210228200000 +0000" stop="20210228220000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210228220000 +0000" stop="20210228230000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20210228230000 +0000" stop="20210301000000 +0000" channel="CO: Caracol Full HD">
+    <title lang="es">Suso´s Show</title>
   </programme>
 </tv>
